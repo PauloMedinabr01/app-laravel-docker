@@ -34,7 +34,7 @@ docker compose up -d --build
 
 Os containers criados são:
 
-- application: container com o Laravel e Vuejs.
+- application: container com o Laravel e Starter Kit Blade/Alpine.
 - mysql: container com o MySQL.
 - nginx: container com o Nginx.
 
